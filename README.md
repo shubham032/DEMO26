@@ -1,2 +1,2 @@
 # DEMO26
-this is a demo file
+This is a demo file of git
